@@ -1,0 +1,17 @@
+{
+    "name": "volodymyr/13_2_composer-demo",
+    "autoload": {
+        "psr-4": {
+            "ComposerDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Volodymyr Honcharov",
+            "email": "ladimirvm87@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
